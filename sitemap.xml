@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://www.famula.fi/</loc>
+        <priority>1.00</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famula.fi/"/>
+    </url>
+    <url>
+        <loc>https://www.famula.fi/famulan-tarina</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famula.fi/famulan-tarina"/>
+    </url>
+    <url>
+        <loc>https://www.famula.fi/kotipalvelut</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famula.fi/kotipalvelut"/>
+    </url>
+    <url>
+        <loc>https://www.famula.fi/hinnasto</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famula.fi/hinnasto"/>
+    </url>
+    <url>
+        <loc>https://www.famula.fi/yhteystiedot</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famula.fi/yhteystiedot"/>
+    </url>
+</urlset>
