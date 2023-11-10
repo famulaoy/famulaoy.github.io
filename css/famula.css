@@ -1462,7 +1462,7 @@ p {
 .cookie-popup_component {
   z-index: 9500;
   max-width: 25rem;
-  display: none;
+  display: block;
   position: fixed;
   top: auto;
   bottom: 1.25rem;
@@ -1525,6 +1525,47 @@ p {
   color: #3b3b3b;
   font-size: 15px;
   line-height: 1.5;
+}
+
+.legal-title {
+  font-size: 37px;
+  font-weight: 500;
+}
+
+.legal-links-wrapper {
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 24px;
+  display: flex;
+}
+
+.legal-link-flex {
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+  color: var(--black);
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: underline;
+  display: block;
+}
+
+.legal-badge-flex {
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  align-items: center;
+  margin-top: 24px;
+  display: flex;
+}
+
+.legal-badge {
+  width: 120px;
+}
+
+.cookie-link {
+  color: var(--black);
 }
 
 @media screen and (min-width: 1280px) {
